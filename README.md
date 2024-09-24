@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there ! My name is Hugo and I just finished the Le Wagon bootcamp. I am currently focusing on back end developpement and learning PHP and Symfony. Im excited for what is to come !
+Hello there ! My name is Hugo and I just finished the Le Wagon bootcamp. I am currently focusing on back end developpement and learning PHP and Symfony. I'm excited for what is to come !
 
 
 ## 🌐 Socials:
